@@ -1,0 +1,30 @@
+@import url(css/reset.css);
+@import url(css/reticula.css);
+@import url(css/secciones.css);
+@import url(css/editorial.css);
+@import url(css/formas.css);
+@import url(css/layout.css);
+
+
+
+
+
+html,body {
+	color: black; /*
+	color: #282828; */
+	height: 100%;
+	font-family: 'Days One', sans-serif;
+	/*font-family: "Montserrat", sans-serif;*/
+}
+
+header p {
+	color: white;
+	font-size: 30px;
+	font-family: "Days One";
+	
+
+}
+
+
+
+

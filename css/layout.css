@@ -1,0 +1,42 @@
+/* Layout */
+
+header, footer {
+	background-color: #282828;
+	position: fixed;
+	padding: 20px 0px;
+	box-sizing: border-box;
+	width: 100%;		
+	color: #c3c1c1;
+	width: 100%;
+}
+
+.layout_a {
+	color: #c3c1c1;
+}
+
+header {
+	top: 0;
+}
+
+footer {
+	bottom: 0;
+}
+
+header img {
+	width: 250px;
+	display: block;
+}
+
+img {
+    width: 100%
+}
+
+.same-height {
+    max-height: 250px;
+    overflow: hidden;
+}
+
+.float {
+    display: inline;
+    max-width: 15%;
+}
